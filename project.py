@@ -242,7 +242,7 @@ def main():
 
         with map_col1:
             # Updating the map on streamlit
-            st_folium(map, width=1150, height=640)
+            st_folium(map, width=1140, height=640)
 
     with tab2:
 
