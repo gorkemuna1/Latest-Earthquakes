@@ -1,6 +1,7 @@
 
 # Latest Earthquakes
 
+#### Web App: [https://cs50p-eq.streamlit.app/](https://cs50p-eq.streamlit.app/)
 #### Video Demo: [https://youtu.be/KzfQKydDKnI](https://youtu.be/KzfQKydDKnI)
 
 This web app is made for CS50P Final Project using streamlit. It helps users to filter and
