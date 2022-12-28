@@ -98,10 +98,6 @@ visualize latest earthquake data that provided by USGS (United States Geological
 
 ### Local Setup
 1. Clone the repository
-2. Go to directory
-```sh
-cd project
-```
 2. Create a virtual environment (optional)
 ```sh
 virtualenv venv
