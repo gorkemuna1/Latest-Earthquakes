@@ -241,7 +241,7 @@ def draw_world_map(tiles: str):
 
     formatter = "function(num) {return L.Util.formatNum(num, 3) + ' º ';};"
     MousePosition(
-        position="topright",
+        position="bottomleft",
         separator=" | ",
         empty_string="NaN",
         lng_first=False,
