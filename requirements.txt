@@ -11,5 +11,4 @@ streamlit==1.16.0
 streamlit_folium==0.6.14
 streamlit_lottie==0.0.3
 streamlit-aggrid
-st_aggrid
 lxml
