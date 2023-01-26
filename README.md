@@ -32,6 +32,8 @@ visualize latest earthquake data that provided by USGS (United States Geological
 * [pandas](https://pandas.pydata.org/docs/): Python library for data manipulation and analysis.
 * [haversine](https://pypi.org/project/haversine/): Python library that provides a function for calculating the Haversine distance between two coordinates.
 
+* [Filter UI idea](https://discuss.streamlit.io/t/auto-generate-a-dataframe-filtering-ui-in-streamlit-with-filter-dataframe/29470): Non-automated version is used with additional features. Thanks to Tyler Richards, Arnaud Miribel and Zachary Blackwood for providing this streamlit filter UI. 
+
 ## Data Sources
 
 **This is not a real-time feed** and app uses monthly csv dataset provided by [USGS](https://earthquake.usgs.gov/) in the background. 
